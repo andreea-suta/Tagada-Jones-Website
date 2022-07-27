@@ -1,2 +1,2 @@
 # Tagada-Jones-Website
-I completed a project from a Web Dev Simplified tutorial, and I created a website for one of my favorite bands.
+I created a website for one of my favorite bands. I followed a tutorial from Web Dev Simplified, on YouTube, making only some small changes.
